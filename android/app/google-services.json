@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "729579004949",
+    "firebase_url": "https://lojaflutter-20705.firebaseio.com",
+    "project_id": "lojaflutter-20705",
+    "storage_bucket": "lojaflutter-20705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729579004949:android:6c14a6f3c0d41ce0c0da1c",
+        "android_client_info": {
+          "package_name": "paulo.cagol.com.br.lojaflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729579004949-t09f67fkq4h3c6tgq6i9p8uqn6l8if6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcvfhjImyh58KUB4ZyYigjdmVJkPwEOV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729579004949-t09f67fkq4h3c6tgq6i9p8uqn6l8if6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
